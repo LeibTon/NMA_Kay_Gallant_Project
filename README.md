@@ -58,8 +58,8 @@ The Document with important points from Literature Review is [here](/Literature_
 - [Gdrive Folder](https://drive.google.com/drive/folders/1bK4BOY4B32O7IRcPZHGo0UHteYUDftBM?usp=sharing)
 
 ## People
-- [Gordon Berman](https://twitter.com/gordonberman)(Mentor)
-- [Kayson Fakhar](https://twitter.com/Kaysonfakhar)(TA)
+- [Gordon Berman](https://twitter.com/gordonberman) (Mentor)
+- [Kayson Fakhar](https://twitter.com/Kaysonfakhar) (TA)
 - [Furkan Özçelik](https://twitter.com/OzceFurkan)
 - [Aditya Prakash](https://github.com/prakashaditya369)
 - [Amirreza Nadimi Shahraki](https://www.linkedin.com/in/amir-nadimi-shahraki-00a94975/)
